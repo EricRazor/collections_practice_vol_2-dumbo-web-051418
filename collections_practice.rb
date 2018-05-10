@@ -1,5 +1,5 @@
 def begins_with_r(array)
-   return array.join("_")
+   return array.join(" ")
    
 
 end
